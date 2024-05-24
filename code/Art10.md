@@ -1,4 +1,12 @@
-# Raiden en Mortal Kombat X y 11: El Dios del Trueno
+---
+layout: layout-post.njk
+title: Raiden
+description: De protector a dictador
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

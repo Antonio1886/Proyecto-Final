@@ -1,4 +1,11 @@
-# D'Vorah en Mortal Kombat X y 11: La Letal Insectomante
+---
+layout: layout-post.njk
+title: D'Vorah
+description: la raza de los insectos y el pensamiento en colmena
+tags: ["Personajes", "Secundarios"]
+date: "2024-02-22"
+---
+# {{ title }}
 
 ## Introducción
 

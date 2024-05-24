@@ -1,3 +1,13 @@
+---
+layout: layout-post.njk
+title: Erron Black
+description: El resultado del odio
+tags: ["Personajes", "Secundarios"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 # Erron Black en Mortal Kombat X y 11: El Forajido Mortal
 
 ## Introducción

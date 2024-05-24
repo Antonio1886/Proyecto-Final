@@ -1,4 +1,12 @@
-# Kotal Kahn en Mortal Kombat X y 11: El Guerrero Azteca
+---
+layout: layout-post.njk
+title: Kotal Kahn
+description: el nuevo lider the outworld
+tags: ["Personajes", "Secundarios"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

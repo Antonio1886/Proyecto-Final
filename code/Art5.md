@@ -1,4 +1,13 @@
-# Cassie Cage en Mortal Kombat X y 11: La Heredera del Legado
+---
+layout: layout-post.njk
+title: Cassie Cage 
+description: Cassie Cage. Un nuevo personaje
+tags: ["Personajes", "Nuevos"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

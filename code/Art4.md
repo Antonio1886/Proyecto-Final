@@ -1,4 +1,13 @@
-# Sonya Blade en Mortal Kombat 10 y 11: Un Pilar de la Franquicia
+---
+layout: layout-post.njk
+title: Sonya Blade
+description: Sonya blade y su roll de origen en la saga
+tags: ["blog", "libros"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

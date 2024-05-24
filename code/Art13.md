@@ -1,4 +1,14 @@
-# Kano en Mortal Kombat X y 11: El Mercenario Implacable
+---
+layout: layout-post.njk
+title: Kano
+description: La creacion del Dragon negro
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
+
 
 ## Introducción
 

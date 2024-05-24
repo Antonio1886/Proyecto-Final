@@ -1,4 +1,12 @@
-# Kung Lao en Mortal Kombat X y 11: El Monje Guerrero
+---
+layout: layout-post.njk
+title: Kung Lao
+description: Monje inquebrantable
+tags: ["Personajes", "Prinicpales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

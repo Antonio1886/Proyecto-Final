@@ -1,4 +1,12 @@
-# Jax en Mortal Kombat X y 11: El Guerrero Implacable
+---
+layout: layout-post.njk
+title: Jax 
+description: jax y conflictos en su trama
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

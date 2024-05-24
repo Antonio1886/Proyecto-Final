@@ -1,4 +1,13 @@
-# Kabal en Mortal Kombat X y 11: El Guerrero Veloz
+---
+layout: layout-post.njk
+title: Kabal
+description: Reanimado pero no redimido 
+tags: ["Personajes", "Secundarios"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

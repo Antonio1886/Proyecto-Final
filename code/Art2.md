@@ -1,4 +1,13 @@
-# Mortal Kombat 11: Una Nueva Era de Brutalidad
+---
+layout: layout-post.njk
+title: Mortal Kombat 11
+description: Descripción de la reseña del libro 1
+tags: ["blog", "libros"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

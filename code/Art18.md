@@ -1,4 +1,12 @@
-# Jade en Mortal Kombat X y 11: La Guerrera Leal
+---
+layout: layout-post.njk
+title: jade
+description: La defensora de edenia
+tags: ["Personajes", "Prinicpales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

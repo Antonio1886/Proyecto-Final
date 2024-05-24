@@ -1,4 +1,14 @@
-# Mortal Kombat (Articulo 1)
+---
+layout: layout-post.njk
+title: Mortal Kombat
+description: inicio de pagina e introduccion de la franquicia de mortal kombat
+tags: ["blog", "libros"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
+
 
 ## Introducción a Mortal Kombat
 

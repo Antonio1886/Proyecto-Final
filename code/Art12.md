@@ -1,4 +1,12 @@
-# Sub-Zero en Mortal Kombat X y 11: El Maestro del Hielo
+---
+layout: layout-post.njk
+title: Zub zero
+description: El legado de los Lin Kuei
+tags: ["Personajes", "Nuevo"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

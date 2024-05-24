@@ -1,4 +1,12 @@
-# Jacqueline Briggs en Mortal Kombat X y 11: La Heredera de las Fuerzas Especiales
+---
+layout: layout-post.njk
+title: Jacqueline Briggs
+description: El nuevo Legado
+tags: ["Personajes", "Nuevo"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

@@ -1,4 +1,15 @@
-# Baraka en Mortal Kombat X y 11: El Guerrero Tarkata
+---
+layout: layout-post.njk
+title: Baraka
+description: La redencion de los tarkatanos
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
+
+
 
 ## Introducción
 

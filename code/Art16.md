@@ -1,4 +1,12 @@
-# Kitana en Mortal Kombat X y 11: La Princesa Guerrera
+---
+layout: layout-post.njk
+title: Kitana
+description: La reina sin reino
+tags: ["Personajes", "Prinicpales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 

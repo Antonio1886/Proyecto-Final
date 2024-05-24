@@ -1,4 +1,13 @@
-# Johnny Cage en Mortal Kombat 10 y 11: Un Ícono de la Franquicia
+---
+layout: layout-post.njk
+title: Johnny Cage
+description: Johnny Cage en Mortal Kombat 10 y 11 Un Ícono de la Franquicia
+tags: ["blog", "libros"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

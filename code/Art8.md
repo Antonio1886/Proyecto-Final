@@ -1,4 +1,14 @@
-# Noob Saibot en Mortal Kombat X y 11: La Sombra Oscura
+---
+layout: layout-post.njk
+title: Noob Saibot
+description: la vida despues de la muerte
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
+
 
 ## Introducción
 

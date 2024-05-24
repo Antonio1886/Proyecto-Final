@@ -1,4 +1,13 @@
-# Liu Kang en Mortal Kombat X y 11: El Guerrero Legendario
+---
+layout: layout-post.njk
+title: Liu Kang
+description: El verdadero Elegido de las tierras lejanas
+tags: ["Personajes", "Prinicpales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
+
 
 ## Introducción
 

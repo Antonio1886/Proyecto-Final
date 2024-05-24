@@ -1,4 +1,12 @@
-# Scorpion en Mortal Kombat X y 11: El Espíritu Vengativo
+---
+layout: layout-post.njk
+title: Scorpion
+description: Scorpion, su camino de la venganza a la paz
+tags: ["Personajes", "Principales"]
+date: "2024-02-22"
+---
+# {{ title }}
+
 
 ## Introducción
 
