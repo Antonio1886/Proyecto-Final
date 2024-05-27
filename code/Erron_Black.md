@@ -12,7 +12,12 @@ date: "2024-02-22"
 
 ## Introducción
 
-Erron Black, un hábil mercenario conocido por su destreza con las armas de fuego y su astucia en el campo de batalla, ha sido un personaje memorable en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Erron Black continúa desempeñando un papel intrigante como un personaje ambiguo con su propia agenda. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Erron Black, un hábil mercenario conocido por su destreza con las armas de fuego y su astucia en el campo de batalla, ha sido un personaje memorable en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Erron Black continúa desempeñando un papel intrigante como un personaje ambiguo con su propia agenda. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Erron_Black.webp" alt=" Erron Black  " width="80%" height="auto" class="img-fluid"> </article>
+
+
 
 ## Erron Black en Mortal Kombat X
 

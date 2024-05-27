@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Johnny Cage
 description: Johnny Cage en Mortal Kombat 10 y 11 Un Ícono de la Franquicia
-tags: ["blog", "libros"]
+tags: ["Personajes", "Principales"]
 date: "2024-02-22"
 ---
 # {{ title }}
@@ -11,7 +11,10 @@ date: "2024-02-22"
 
 ## Introducción
 
-Johnny Cage es uno de los personajes más icónicos de la franquicia Mortal Kombat. Con su carisma, habilidades de combate y sentido del humor, ha sido un favorito de los fanáticos desde su debut en el primer Mortal Kombat en 1992. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Johnny Cage juega un papel crucial tanto en la historia como en la evolución de la serie. Este documento explora su importancia en estos dos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Johnny Cage es uno de los personajes más icónicos de la franquicia Mortal Kombat. Con su carisma, habilidades de combate y sentido del humor, ha sido un favorito de los fanáticos desde su debut en el primer Mortal Kombat en 1992. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Johnny Cage juega un papel crucial tanto en la historia como en la evolución de la serie. Este documento explora su importancia en estos dos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Johnny_Cage.png" alt="Dragon MK " width="80%" height="auto" class="img-fluid"> </article>
 
 ## Johnny Cage en Mortal Kombat X
 

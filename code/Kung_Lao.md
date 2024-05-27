@@ -10,7 +10,12 @@ date: "2024-02-22"
 
 ## Introducción
 
-Kung Lao, un maestro en las artes marciales y descendiente de la legendaria Orden del Loto Blanco, ha sido un personaje destacado en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kung Lao continúa desempeñando un papel crucial como defensor de la Tierra y protector de sus aliados. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6">Kung Lao, un maestro en las artes marciales y descendiente de la legendaria Orden del Loto Blanco, ha sido un personaje destacado en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kung Lao continúa desempeñando un papel crucial como defensor de la Tierra y protector de sus aliados. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Kung_Lao.webp" alt="Kung Lao " width="80%" height="auto" class="img-fluid"> </article>
+
+
 
 ## Kung Lao en Mortal Kombat X
 

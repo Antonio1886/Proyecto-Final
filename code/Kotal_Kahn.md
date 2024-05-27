@@ -10,7 +10,13 @@ date: "2024-02-22"
 
 ## Introducción
 
-Kotal Kahn, el feroz guerrero azteca y emperador de Outworld, ha sido un personaje destacado en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Kotal Kahn continúa desempeñando un papel crucial como líder y protector de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6">  Kotal Kahn, el feroz guerrero azteca y emperador de Outworld, ha sido un personaje destacado en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Kotal Kahn continúa desempeñando un papel crucial como líder y protector de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+  </article>
+
+<article class="col-12 col-md-6"> <img src="/img/Kotal_Kahn.webp" alt="Kotal Kahn " width="50%" height="auto" class="img-fluid"> </article>
+
 
 ## Kotal Kahn en Mortal Kombat X
 

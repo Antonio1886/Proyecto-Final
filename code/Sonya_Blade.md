@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Sonya Blade
 description: Sonya blade y su roll de origen en la saga
-tags: ["blog", "libros"]
+tags: ["Personajes", "Principales"]
 date: "2024-02-22"
 ---
 # {{ title }}
@@ -11,7 +11,10 @@ date: "2024-02-22"
 
 ## Introducción
 
-Sonya Blade es una de las figuras más icónicas y duraderas de la serie Mortal Kombat. Desde su primera aparición en el juego original de 1992, Sonya ha sido un símbolo de fuerza, destreza militar y liderazgo. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), su personaje no solo sigue siendo fundamental en la narrativa, sino que también evoluciona significativamente. Este documento explorará su papel en estos dos videojuegos, la importancia de su personaje en la historia, y sus finales en la Torre Clásica.
+<section class="row"> <article class="col-12 col-md-6"> Sonya Blade es una de las figuras más icónicas y duraderas de la serie Mortal Kombat. Desde su primera aparición en el juego original de 1992, Sonya ha sido un símbolo de fuerza, destreza militar y liderazgo. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), su personaje no solo sigue siendo fundamental en la narrativa, sino que también evoluciona significativamente. Este documento explorará su papel en estos dos videojuegos, la importancia de su personaje en la historia, y sus finales en la Torre Clásica.
+
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Sonya_Blade.png" alt=" Sonya Blade " width="80%" height="auto" class="img-fluid"> </article>
 
 ## Sonya Blade en Mortal Kombat X
 

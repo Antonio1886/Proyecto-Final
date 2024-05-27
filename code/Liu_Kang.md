@@ -11,7 +11,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Liu Kang, conocido como uno de los guerreros más legendarios en el universo de Mortal Kombat, ha sido una figura icónica desde las primeras entregas de la serie. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Liu Kang continúa desempeñando un papel crucial como líder y protector de la Tierra. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Liu Kang, conocido como uno de los guerreros más legendarios en el universo de Mortal Kombat, ha sido una figura icónica desde las primeras entregas de la serie. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Liu Kang continúa desempeñando un papel crucial como líder y protector de la Tierra. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Liu_Kang.webp" alt="LIU KANG " width="50%" height="auto" class="img-fluid"> </article>
+
 
 ## Liu Kang en Mortal Kombat X
 

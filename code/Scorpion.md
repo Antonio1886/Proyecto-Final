@@ -10,7 +10,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Scorpion, uno de los personajes más emblemáticos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Scorpion continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+
+<section class="row"> <article class="col-12 col-md-6"> Scorpion, uno de los personajes más emblemáticos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Scorpion continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Scorpion.png" alt=" Scorpion " width="80%" height="auto" class="img-fluid"> </article>
 
 ## Scorpion en Mortal Kombat X
 

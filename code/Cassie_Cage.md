@@ -11,7 +11,10 @@ date: "2024-02-22"
 
 ## Introducción
 
-Cassie Cage, la hija de Sonya Blade y Johnny Cage, es un personaje fundamental en la franquicia Mortal Kombat. Desde su debut en Mortal Kombat X (MKX) hasta su papel en Mortal Kombat 11 (MK11), Cassie ha demostrado ser una luchadora formidable y una líder valiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Cassie Cage, la hija de Sonya Blade y Johnny Cage, es un personaje fundamental en la franquicia Mortal Kombat. Desde su debut en Mortal Kombat X (MKX) hasta su papel en Mortal Kombat 11 (MK11), Cassie ha demostrado ser una luchadora formidable y una líder valiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Cassie_Cage.webp" alt=" Cassie Cage " width="80%" height="auto" class="img-fluid"> </article>
 
 ## Cassie Cage en Mortal Kombat X
 

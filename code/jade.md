@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: jade
 description: La defensora de edenia
-tags: ["Personajes", "Prinicpales"]
+tags: ["Personajes", "Secundarios"]
 date: "2024-02-22"
 ---
 # {{ title }}
@@ -10,7 +10,12 @@ date: "2024-02-22"
 
 ## Introducción
 
-Jade, una leal defensora del reino de Edenia y maestra en el combate cuerpo a cuerpo, ha sido un personaje distintivo en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jade continúa desempeñando un papel crucial como protectora de su reino y aliada de Kitana. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Jade, una leal defensora del reino de Edenia y maestra en el combate cuerpo a cuerpo, ha sido un personaje distintivo en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jade continúa desempeñando un papel crucial como protectora de su reino y aliada de Kitana. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Jade.webp" alt=" jade " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Jade en Mortal Kombat X
 

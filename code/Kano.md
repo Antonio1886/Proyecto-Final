@@ -12,7 +12,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Kano, un villano despiadado y astuto, ha sido una presencia constante en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kano continúa siendo una figura central en la lucha por el poder y la supremacía. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Kano, un villano despiadado y astuto, ha sido una presencia constante en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kano continúa siendo una figura central en la lucha por el poder y la supremacía. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+
+<article class="col-12 col-md-6"> <img src="/img/Kano.webp" alt="Kano image " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Kano en Mortal Kombat X
 

@@ -10,7 +10,10 @@ date: "2024-02-22"
 
 ## Introducción
 
-Jacqueline "Jacqui" Briggs es un personaje relativamente nuevo en la serie Mortal Kombat, pero ha demostrado ser una adición valiosa con su habilidad y determinación. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jacqui continúa desempeñando un papel crucial como miembro de las Fuerzas Especiales y como luchadora independiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6">
+Jacqueline "Jacqui" Briggs es un personaje relativamente nuevo en la serie Mortal Kombat, pero ha demostrado ser una adición valiosa con su habilidad y determinación. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jacqui continúa desempeñando un papel crucial como miembro de las Fuerzas Especiales y como luchadora independiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+<article class="col-12 col-md-6"> <img src="/img/Jaccqueline_Briggs.webp" alt="Jacqueline Briggs " width="90%" height="auto" class="img-fluid"> </article>
 
 ## Jacqui Briggs en Mortal Kombat X
 

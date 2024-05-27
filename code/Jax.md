@@ -10,7 +10,12 @@ date: "2024-02-22"
 
 ## Introducción
 
-Jax Briggs, un personaje emblemático de la serie Mortal Kombat, ha sido un pilar de fuerza y ​​determinación desde su debut en los primeros juegos. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jax continúa desempeñando un papel fundamental en la lucha contra el mal y en la narrativa general de la franquicia. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+
+<section class="row"> <article class="col-12 col-md-6"> Jax Briggs, un personaje emblemático de la serie Mortal Kombat, ha sido un pilar de fuerza y ​​determinación desde su debut en los primeros juegos. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jax continúa desempeñando un papel fundamental en la lucha contra el mal y en la narrativa general de la franquicia. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Jax.webp" alt=" Jax " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Jax en Mortal Kombat X
 

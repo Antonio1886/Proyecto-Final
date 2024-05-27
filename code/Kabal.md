@@ -11,7 +11,13 @@ date: "2024-02-22"
 
 ## Introducción
 
-Kabal, conocido por su velocidad y habilidades letales, ha sido un personaje memorable en la serie Mortal Kombat desde su debut. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kabal continúa siendo una fuerza en el campo de batalla, luchando por la justicia y enfrentándose a sus enemigos con ferocidad. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+
+<section class="row"> <article class="col-12 col-md-6"> Kabal, conocido por su velocidad y habilidades letales, ha sido un personaje memorable en la serie Mortal Kombat desde su debut. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kabal continúa siendo una fuerza en el campo de batalla, luchando por la justicia y enfrentándose a sus enemigos con ferocidad. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+  </article>
+
+<article class="col-12 col-md-6"> <img src="/img/Kabal.webp" alt="Kabal image " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Kabal en Mortal Kombat X
 

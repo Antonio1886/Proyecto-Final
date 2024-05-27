@@ -5,14 +5,14 @@ description: inicio de pagina e introduccion de la franquicia de mortal kombat
 tags: ["Personajes", "Historia"]
 date: "2024-02-22"
 ---
+# {{ title }}
 
 
 
-<h1>{{ title }}</h1>
 <h2>Introducción a Mortal Kombat</h2>
 
 <p>Mortal Kombat es una franquicia de videojuegos de lucha que se ha convertido en un ícono dentro de la industria del entretenimiento interactivo. Desde su lanzamiento inicial, ha capturado la atención de millones de jugadores alrededor del mundo gracias a su jugabilidad intensa, gráficos impresionantes y, sobre todo, su brutalidad y violencia gráfica distintiva.</p>
-<img src="/img/MK_Logo.jpg" alt="MK Dragon" width="50%" height="auto" class="img-fluid mx-1800 my-5"> 
+
 <h3>Origen y Creación</h3>
 
 <p>El primer juego de Mortal Kombat fue lanzado en octubre de 1992. Fue desarrollado por el estudio Midway Games y creado por Ed Boon y John Tobias. Estos dos creativos combinaron sus talentos para producir un juego que destacaría por su realismo gráfico, el uso de actores digitalizados y su innovador sistema de combate. La premisa del juego se centraba en un torneo de artes marciales donde guerreros de diferentes reinos luchaban entre sí, culminando en violentos y sangrientos movimientos finales conocidos como "Fatalities".</p>

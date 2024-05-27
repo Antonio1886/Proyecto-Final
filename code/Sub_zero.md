@@ -1,8 +1,8 @@
 ---
 layout: layout-post.njk
-title: Zub zero
+title: Sub zero
 description: El legado de los Lin Kuei
-tags: ["Personajes", "Nuevo"]
+tags: ["Personajes", "Principales"]
 date: "2024-02-22"
 ---
 # {{ title }}
@@ -10,7 +10,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Sub-Zero, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Sub-Zero continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+
+<section class="row"> <article class="col-12 col-md-6"> Sub-Zero, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Sub-Zero continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
+<article class="col-12 col-md-6"> <img src="/img/Sub-Zero.webp" alt="Sub Zero " width="50%" height="auto" class="img-fluid"> </article>
+
 
 ## Sub-Zero en Mortal Kombat X
 

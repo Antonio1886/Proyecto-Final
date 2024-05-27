@@ -13,7 +13,43 @@ date: "2024-02-22"
 
 ## Introducción
 
-Baraka, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido conocido por su ferocidad y brutalidad desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Baraka continúa siendo una fuerza a tener en cuenta en el campo de batalla. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+<section class="row"> <article class="col-12 col-md-4"> Baraka, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido conocido por su ferocidad y brutalidad desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Baraka continúa siendo una fuerza a tener en cuenta en el campo de batalla. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+<article class="col-12 col-md-4"> <img src="/img/Baraka.webp" alt="Baraka image " width="50%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Outworld</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Baraka</td>
+                <td>Tarkatano</td>
+              </tr>
+              <tr>
+                <td>Relaciones</td>
+                <td>
+                <li>Urano(Padre)</li>
+                <li>Thalassa(Madre)</li>
+                <li>Los Titanes(Parientes)</li>
+                <li>Hefesto(Esposo)</li>
+                <li><a href="/Ares" target="_blank" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Ares</a>(Cuñado/Amante)</li>
+                </td>
+              </tr>
+              <tr>
+                <td>Afiliación</td>
+                <td>Monte Olimpo</td>
+              </tr>
+              <tr>
+                <td>Doblaje</td>
+                <td>Courtney Vineys</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+</section>
+
 
 ## Baraka en Mortal Kombat X
 

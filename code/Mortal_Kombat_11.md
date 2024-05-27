@@ -2,7 +2,7 @@
 layout: layout-post.njk
 title: Mortal Kombat 11
 description: Descripción de la reseña del libro 1
-tags: ["blog", "libros"]
+tags: ["Personajes", "Historia"]
 date: "2024-02-22"
 ---
 # {{ title }}
@@ -13,11 +13,14 @@ date: "2024-02-22"
 
 Mortal Kombat 11, lanzado en abril de 2019, es la undécima entrega principal de la icónica serie de videojuegos de lucha Mortal Kombat. Desarrollado por NetherRealm Studios y publicado por Warner Bros. Interactive Entertainment, MK11 continúa la tradición de la franquicia al ofrecer combates intensos, gráficos impresionantes y una narrativa rica. Este juego no solo mantiene las características clásicas de Mortal Kombat, sino que también introduce nuevas mecánicas y modos de juego que lo hacen destacar en el género.
 
+
 ## Historia
 
 La historia de Mortal Kombat 11 sigue los eventos de Mortal Kombat X y se centra en la diosa del tiempo, Kronika, quien busca restablecer el equilibrio del universo alterando la línea temporal. Kronika está descontenta con Raiden, el dios del trueno, por haber interferido en los eventos históricos y haber matado a su hijo, Shinnok. Para lograr su objetivo, Kronika reúne a villanos de diferentes épocas y resucita a personajes muertos, creando un caos temporal que enfrenta a héroes y villanos de diversas eras.
 
 El modo historia de MK11 es conocido por sus cinemáticas de alta calidad y su narrativa envolvente, que ofrece una experiencia similar a una película interactiva. Los jugadores controlan a varios personajes a lo largo de la campaña, lo que les permite ver la historia desde múltiples perspectivas. Este enfoque no solo enriquece la narrativa, sino que también introduce a los jugadores a las habilidades y movimientos de diferentes luchadores.
+
+ <img src="/img/MK11_logo.png" alt="Logo MK 11 " width="50%" height="auto" class="img-fluid"> 
 
 ## DLC y Expansiones
 

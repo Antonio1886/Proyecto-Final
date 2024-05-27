@@ -12,7 +12,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Noob Saibot, un personaje misterioso y poderoso, ha sido un enigma en la serie Mortal Kombat desde su primera aparición. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Noob Saibot continúa siendo una presencia ominosa y una fuerza a tener en cuenta. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6"> Noob Saibot, un personaje misterioso y poderoso, ha sido un enigma en la serie Mortal Kombat desde su primera aparición. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Noob Saibot continúa siendo una presencia ominosa y una fuerza a tener en cuenta. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Noob_saibot.webp" alt=" Noob saibot " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Noob Saibot en Mortal Kombat X
 

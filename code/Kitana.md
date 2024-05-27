@@ -10,7 +10,11 @@ date: "2024-02-22"
 
 ## Introducción
 
-Kitana, la princesa de Edenia y una formidable guerrera, ha sido un personaje destacado en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kitana continúa desempeñando un papel crucial como líder y protectora de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6">Kitana, la princesa de Edenia y una formidable guerrera, ha sido un personaje destacado en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kitana continúa desempeñando un papel crucial como líder y protectora de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/Kitana.webp" alt="Kitana " width="80%" height="auto" class="img-fluid"> </article>
+
 
 ## Kitana en Mortal Kombat X
 

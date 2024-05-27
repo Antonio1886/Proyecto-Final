@@ -9,7 +9,11 @@ date: "2024-02-22"
 
 ## Introducción
 
+<section class="row"> <article class="col-12 col-md-6">
 D'Vorah, una enigmática guerrera con habilidades únicas basadas en insectos, ha sido un personaje intrigante en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), D'Vorah continúa desempeñando un papel crucial como un personaje misterioso con sus propios motivos y lealtades. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+ </article>
+<article class="col-12 col-md-6"> <img src="/img/DVorah.webp" alt="DVorah " width="60%" height="auto" class="img-fluid"> </article>
+
 
 ## D'Vorah en Mortal Kombat X
 

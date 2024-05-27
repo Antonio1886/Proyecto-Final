@@ -10,7 +10,10 @@ date: "2024-02-22"
 
 ## Introducción
 
-Raiden, el poderoso Dios del Trueno, ha sido una figura icónica en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Raiden continúa desempeñando un papel crucial en la lucha entre el bien y el mal. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
+<section class="row"> <article class="col-12 col-md-6">
+Raiden, el poderoso Dios del Trueno, ha sido una figura icónica en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Raiden continúa desempeñando un papel crucial en la lucha entre el bien y el mal. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+<article class="col-12 col-md-6"> <img src="/img/Raiden.png" alt="Raiden " width="90%" height="auto" class="img-fluid"> </article>
 
 ## Raiden en Mortal Kombat X
 
