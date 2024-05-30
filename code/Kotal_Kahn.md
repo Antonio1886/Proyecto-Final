@@ -11,11 +11,61 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6">  Kotal Kahn, el feroz guerrero azteca y emperador de Outworld, ha sido un personaje destacado en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Kotal Kahn continúa desempeñando un papel crucial como líder y protector de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
 
-  </article>
+<section class="row"> <article class="col-12 col-md-4"> Kotal Kahn, el feroz guerrero azteca y emperador de Outworld, ha sido un personaje destacado en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Kotal Kahn continúa desempeñando un papel crucial como líder y protector de su reino. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
 
-<article class="col-12 col-md-6"> <img src="/img/Kotal_Kahn.webp" alt="Kotal Kahn " width="50%" height="auto" class="img-fluid"> </article>
+</article>
+<article class="col-12 col-md-4"> <img src="/img/Kotal_Kahn.webp" alt="Kotal Kahn " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">OutWorld</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Kotal Kahn</td> 
+                <td>OutWorld</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                 <li>Bo´ Rai Cho</li>
+                <li>Hsu Hap</li>
+                 <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
+                 <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                 <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                 <li> <a href="/Kitana"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kitana </a></li>
+                 <li> <a href="/Jade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jade</a></li>
+                 <li> <a href="/Erron_Black"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Erron Black</a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                 <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                <li>Geras</li>
+                <li>Shao Kahn</li>
+                <li>Goro</li>
+                <li>Kronika</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Macuahuitl</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Osh-Tekk</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 
 ## Kotal Kahn en Mortal Kombat X

@@ -13,9 +13,57 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6"> Erron Black, un hábil mercenario conocido por su destreza con las armas de fuego y su astucia en el campo de batalla, ha sido un personaje memorable en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Erron Black continúa desempeñando un papel intrigante como un personaje ambiguo con su propia agenda. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Erron_Black.webp" alt=" Erron Black  " width="80%" height="auto" class="img-fluid"> </article>
+<section class="row"> <article class="col-12 col-md-4"> Erron Black, un hábil mercenario conocido por su destreza con las armas de fuego y su astucia en el campo de batalla, ha sido un personaje memorable en la serie Mortal Kombat desde su debut en Mortal Kombat X (MKX). En Mortal Kombat 11 (MK11), Erron Black continúa desempeñando un papel intrigante como un personaje ambiguo con su propia agenda. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
+
+<article class="col-12 col-md-4"> <img src="/img/Erron_Black.webp" alt=" Erron Black  " width="80%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Erron Black</td> 
+                <td>Out World</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+               <li> <a href="/Dvorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
+                 <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                 <li> <a href="/Kotal_Kahn" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kotal Kahn </a></li>
+                <li>Geras</li>
+                <li>Kronika</li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                  <li>Bo´ Rai Cho</li>
+                <li>Hsu Hap</li>
+                 <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
+                 <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                 <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                 <li>Fujin </li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
+              <tr>
+                <td>Armas</td>
+                <td> Revolver</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 
 

@@ -11,10 +11,59 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6"> Jade, una leal defensora del reino de Edenia y maestra en el combate cuerpo a cuerpo, ha sido un personaje distintivo en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jade continúa desempeñando un papel crucial como protectora de su reino y aliada de Kitana. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+<section class="row"> <article class="col-12 col-md-4">Jade, una leal defensora del reino de Edenia y maestra en el combate cuerpo a cuerpo, ha sido un personaje distintivo en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jade continúa desempeñando un papel crucial como protectora de su reino y aliada de Kitana. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+</article>
+<article class="col-12 col-md-4"> <img src="/img/Jade.webp" alt=" jade " width="100%" height="auto" class="img-fluid"> </article>
 
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Jade.webp" alt=" jade " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">OutWorld</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Jade</td> 
+                <td>Edenia</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                 <li>Bo´ Rai Cho</li>
+                <li>Hsu Hap</li>
+                 <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
+                 <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                 <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                 <li> <a href="/Kitana"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kitana </a></li>
+                 <li> <a href="/Kotal_Kahn"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kotal Kahn </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                 <li> <a href="/Dvorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
+                 <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                <li>Geras</li>
+                <li>Shao Kahn</li>
+                <li>Goro</li>
+                <li>Kronika</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Bastón Luminoso</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Edian</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 
 ## Jade en Mortal Kombat X

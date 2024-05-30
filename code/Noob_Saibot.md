@@ -16,7 +16,7 @@ date: "2024-02-22"
 </article>
 
 <section class="row"> <article class="col-12 col-md-4"> Noob Saibot, un personaje misterioso y poderoso, ha sido un enigma en la serie Mortal Kombat desde su primera aparición. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Noob Saibot continúa siendo una presencia ominosa y una fuerza a tener en cuenta. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
-<article class="col-12 col-md-4"> <img src="/img/Noob_saibot.webp" alt=" Noob saibot " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4"> <img src="/img/Noob_saibot.webp" alt=" Noob saibot " width="100%" height="auto" class="img-fluid"> </article>
 
 <article class="col-12 col-md-4">  <table class="table table-dark">
             <thead>
@@ -45,7 +45,7 @@ date: "2024-02-22"
                 <td>Enemigos</td>
                 <td>
                 <li>Ashrah</li>
-                  <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zer0 </a></li>
+                  <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zero </a></li>
                  <li> <a href="/Scorpion"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scorpion </a></li>
                  <li>Scythe </li>
                 </td>
@@ -62,7 +62,7 @@ date: "2024-02-22"
                 <td>Humano</td>
               </tr>
             </tbody>
-          </table>
+          </table>  
           </article>
 
 

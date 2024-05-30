@@ -12,10 +12,58 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6"> Liu Kang, conocido como uno de los guerreros más legendarios en el universo de Mortal Kombat, ha sido una figura icónica desde las primeras entregas de la serie. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Liu Kang continúa desempeñando un papel crucial como líder y protector de la Tierra. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Liu_Kang.webp" alt="LIU KANG " width="50%" height="auto" class="img-fluid"> </article>
 
+  </article>
+<section class="row"> <article class="col-12 col-md-4"> Liu Kang, conocido como uno de los guerreros más legendarios en el universo de Mortal Kombat, ha sido una figura icónica desde las primeras entregas de la serie. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Liu Kang continúa desempeñando un papel crucial como líder y protector de la Tierra. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Liu_Kang.webp" alt="LIU KANG " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Liu Kang</td> 
+                <td>China</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                 <li>Bo´ Rai Cho</li>
+                <li>Hsu Hap</li>
+                 <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
+                 <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                 <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                 <li>Fujin </li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                 <li> <a href="/Dvorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
+                 <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                <li>Geras</li>
+                <li>Goro</li>
+                <li>Kronika</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Dragon Sword</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 ## Liu Kang en Mortal Kombat X
 

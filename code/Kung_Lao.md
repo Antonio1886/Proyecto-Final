@@ -12,7 +12,7 @@ date: "2024-02-22"
 
   </article>
 <section class="row"> <article class="col-12 col-md-4"> Kung Lao, un maestro en las artes marciales y descendiente de la legendaria Orden del Loto Blanco, ha sido un personaje destacado en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kung Lao continúa desempeñando un papel crucial como defensor de la Tierra y protector de sus aliados. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
-<article class="col-12 col-md-4"> <img src="/img/Kung_Lao.webp" alt="Kung Lao " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4"> <img src="/img/Kung_Lao.webp" alt="Kung Lao " width="100%" height="auto" class="img-fluid"> </article>
 
 <article class="col-12 col-md-4">  <table class="table table-dark">
             <thead>
@@ -23,7 +23,7 @@ date: "2024-02-22"
             <tbody class="table-group-divider">
               <tr>
                 <td>Liu Kang</td> 
-                <td>Honan, China</td> 
+                <td>China</td> 
               </tr>
               <tr>
                 <td>Aliados</td>
@@ -31,6 +31,7 @@ date: "2024-02-22"
                  <li>Bo´ Rai Cho</li>
                 <li>Hsu Hap</li>
                  <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
                  <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
                  <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
                  <li>Fujin </li>
@@ -40,19 +41,18 @@ date: "2024-02-22"
                 <td>Enemigos</td>
                 <td>
                  <li> <a href="/Dvorah" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">D´Vorah </a></li>
-                <li>Smoke</li>
-                <li>Quan Chi</li>
-                <li>Stryker</li>
-                <li> <a href="/Kitana" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kitana </a></li>
-                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang </a></li>
+                 <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                <li>Geras</li>
+                <li>Goro</li>
+                <li>Kronika</li>
                 </td>
               </tr>
                <td>Alineación</td>
                 <td>
-                <li>Villano</li>
+                <li>Heroe</li>
               <tr>
                 <td>Armas</td>
-                <td> Hookswords</td>
+                <td> Battle Axe</td>
               </tr>
               <tr>
                 <td>Raza</td>

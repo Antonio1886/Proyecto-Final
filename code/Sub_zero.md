@@ -13,7 +13,7 @@ date: "2024-02-22"
 </article>
 
 <section class="row"> <article class="col-12 col-md-4">Sub-Zero, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Sub-Zero continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
-<article class="col-12 col-md-4"> <img src="/img/Sub-Zero.webp" alt="Sub Zero " width="50%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4"> <img src="/img/Sub-Zero.webp" alt="Sub Zero " width="80%" height="auto" class="img-fluid"> </article>
 
 
 <article class="col-12 col-md-4">  <table class="table table-dark">

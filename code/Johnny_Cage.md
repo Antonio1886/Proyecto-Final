@@ -12,7 +12,7 @@ date: "2024-02-22"
 ## Introducción
 
 <section class="row"> <article class="col-12 col-md-4"> Johnny Cage es uno de los personajes más icónicos de la franquicia Mortal Kombat. Con su carisma, habilidades de combate y sentido del humor, ha sido un favorito de los fanáticos desde su debut en el primer Mortal Kombat en 1992. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Johnny Cage juega un papel crucial tanto en la historia como en la evolución de la serie. Este documento explora su importancia en estos dos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
-<article class="col-12 col-md-4"> <img src="/img/Johnny_Cage.png" alt=" johnny cage " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4"> <img src="/img/Johnny_Cage.png" alt=" johnny cage " width="100%" height="auto" class="img-fluid"> </article>
 
 <article class="col-12 col-md-4">  <table class="table table-dark">
             <thead>
@@ -52,7 +52,7 @@ date: "2024-02-22"
               </tr>
                <td>Alineación</td>
                 <td>
-                <li>Heroe</li>
+                <li>Villano</li>
               <tr>
                 <td>Armas</td>
                 <td>Nunchaku</td>
