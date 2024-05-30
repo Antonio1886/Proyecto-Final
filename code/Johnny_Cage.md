@@ -11,10 +11,60 @@ date: "2024-02-22"
 
 ## Introducción
 
+<section class="row"> <article class="col-12 col-md-4"> Johnny Cage es uno de los personajes más icónicos de la franquicia Mortal Kombat. Con su carisma, habilidades de combate y sentido del humor, ha sido un favorito de los fanáticos desde su debut en el primer Mortal Kombat en 1992. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Johnny Cage juega un papel crucial tanto en la historia como en la evolución de la serie. Este documento explora su importancia en estos dos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Johnny_Cage.png" alt=" johnny cage " width="80%" height="auto" class="img-fluid"> </article>
 
-<section class="row"> <article class="col-12 col-md-6"> Johnny Cage es uno de los personajes más icónicos de la franquicia Mortal Kombat. Con su carisma, habilidades de combate y sentido del humor, ha sido un favorito de los fanáticos desde su debut en el primer Mortal Kombat en 1992. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Johnny Cage juega un papel crucial tanto en la historia como en la evolución de la serie. Este documento explora su importancia en estos dos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Johnny_Cage.png" alt="Dragon MK " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>John Carlton</td> 
+                <td>California, USA</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li><a href="/Sonya_Blade" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade (Esposa)</a></li>
+                <li> <a href="/Raiden" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Raiden </a></li>
+                <li><a href="/Jax" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                <li>Mokap</li>
+                <li>Kenshi</li>
+                <li><a href="/Cassie_Cage" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage</a></li>
+                <li><a href="/Jacqueline_Briggs" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jacqueline Briggs</a></li>
+                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang</a></li>
+                 <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Shang Tsung</li>
+                <li>Goro</li>
+                <li> <a href="/Kano" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kano</a></li>
+                 <li>Reptile</li>
+                 <li>Sektor</li>
+                <li> <a href="/Erron_Black"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Erron Black</a></li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td>Nunchaku</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+</section>
 
 ## Johnny Cage en Mortal Kombat X
 

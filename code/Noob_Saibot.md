@@ -13,9 +13,58 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6"> Noob Saibot, un personaje misterioso y poderoso, ha sido un enigma en la serie Mortal Kombat desde su primera aparición. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Noob Saibot continúa siendo una presencia ominosa y una fuerza a tener en cuenta. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Noob_saibot.webp" alt=" Noob saibot " width="80%" height="auto" class="img-fluid"> </article>
+</article>
+
+<section class="row"> <article class="col-12 col-md-4"> Noob Saibot, un personaje misterioso y poderoso, ha sido un enigma en la serie Mortal Kombat desde su primera aparición. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Noob Saibot continúa siendo una presencia ominosa y una fuerza a tener en cuenta. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Noob_saibot.webp" alt=" Noob saibot " width="80%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">NetherRealm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Bi-Han</td> 
+                <td>China</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li>Shao Kahn</li>
+                <li> Shinnok</li>
+                <li>Sareena</li>
+                <li>Smoke</li>
+                <li>Frost</li>
+                <li>Sektor</li>
+                <li>Kronica</li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Ashrah</li>
+                  <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zer0 </a></li>
+                 <li> <a href="/Scorpion"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scorpion </a></li>
+                 <li>Scythe </li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
+              <tr>
+                <td>Armas</td>
+                <td> Troll Hammer</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+
 
 
 ## Noob Saibot en Mortal Kombat X

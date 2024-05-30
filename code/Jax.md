@@ -10,11 +10,61 @@ date: "2024-02-22"
 
 ## Introducción
 
+</article>
 
+<section class="row"> <article class="col-12 col-md-4"> Jax Briggs, un personaje emblemático de la serie Mortal Kombat, ha sido un pilar de fuerza y ​​determinación desde su debut en los primeros juegos. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jax continúa desempeñando un papel fundamental en la lucha contra el mal y en la narrativa general de la franquicia. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Jax.webp" alt=" Jax " width="100%" height="auto" class="img-fluid"> </article>
 
-<section class="row"> <article class="col-12 col-md-6"> Jax Briggs, un personaje emblemático de la serie Mortal Kombat, ha sido un pilar de fuerza y ​​determinación desde su debut en los primeros juegos. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jax continúa desempeñando un papel fundamental en la lucha contra el mal y en la narrativa general de la franquicia. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
- </article>
-<article class="col-12 col-md-6"> <img src="/img/Jax.webp" alt=" Jax " width="80%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Jax</td> 
+                <td>USA</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li><a href="/Johnny_Cage" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage</a></li>
+                <li><a href="/Sonya_Blade" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade</a></li>
+                <li> <a href="/Raiden" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Raiden </a></li>
+                <li> Cyrax</li>
+                <li> Kenshi</li>
+                <li><a href="/Jacqueline_Briggs" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jacqueline Briggs (Hija)</a></li>
+                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang</a></li>
+                 <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Sektor</li>
+                <li> <a href="/Kano" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kano</a></li>
+                <li> Mavado</li>
+                <li> Jarek</li>
+                <li> Hsu Hao</li>
+                <li> Sektor</li>
+                <li> Cyrax</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Judo</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 
 ## Jax en Mortal Kombat X

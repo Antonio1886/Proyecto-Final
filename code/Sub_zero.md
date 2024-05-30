@@ -10,10 +10,56 @@ date: "2024-02-22"
 
 ## Introducción
 
+</article>
+
+<section class="row"> <article class="col-12 col-md-4">Sub-Zero, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Sub-Zero continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Sub-Zero.webp" alt="Sub Zero " width="50%" height="auto" class="img-fluid"> </article>
 
 
-<section class="row"> <article class="col-12 col-md-6"> Sub-Zero, uno de los personajes más icónicos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Sub-Zero continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
-<article class="col-12 col-md-6"> <img src="/img/Sub-Zero.webp" alt="Sub Zero " width="50%" height="auto" class="img-fluid"> </article>
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Kuai Liang</td> 
+                <td>China</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                  <li> <a href="/Noob_Saibot"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Noob Saibot (Hermano) </a></li>
+                <li> kenshi</li>
+                  <li> <a href="/Raiden"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Radien </a></li>
+                 <li> <a href="/Scorpion"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scorpion </a></li>
+                  <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Qyan Chi</li>
+                 <li> <a href="/Erron_Black"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Erron Black </a></li>
+                 <li>Sektor </li>
+                 <li>Frost </li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
+              <tr>
+                <td>Armas</td>
+                <td> Kori Blade</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>  
+          </article>
 
 
 ## Sub-Zero en Mortal Kombat X

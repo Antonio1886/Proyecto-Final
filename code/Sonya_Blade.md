@@ -11,10 +11,65 @@ date: "2024-02-22"
 
 ## Introducción
 
-<section class="row"> <article class="col-12 col-md-6"> Sonya Blade es una de las figuras más icónicas y duraderas de la serie Mortal Kombat. Desde su primera aparición en el juego original de 1992, Sonya ha sido un símbolo de fuerza, destreza militar y liderazgo. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), su personaje no solo sigue siendo fundamental en la narrativa, sino que también evoluciona significativamente. Este documento explorará su papel en estos dos videojuegos, la importancia de su personaje en la historia, y sus finales en la Torre Clásica.
-
  </article>
-<article class="col-12 col-md-6"> <img src="/img/Sonya_Blade.png" alt=" Sonya Blade " width="80%" height="auto" class="img-fluid"> </article>
+
+
+<section class="row"> <article class="col-12 col-md-4">  Sonya Blade es una de las figuras más icónicas y duraderas de la serie Mortal Kombat. Desde su primera aparición en el juego original de 1992, Sonya ha sido un símbolo de fuerza, destreza militar y liderazgo. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), su personaje no solo sigue siendo fundamental en la narrativa, sino que también evoluciona significativamente. Este documento explorará su papel en estos dos videojuegos, la importancia de su personaje en la historia, y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Sonya_Blade.png" alt=" Sonya Blade " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Sonya Blade</td> 
+                <td>Texas, USA</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li><a href="/Johnny_Cage" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage (Esposo)</a></li>
+                <li> <a href="/Raiden" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Raiden </a></li>
+                <li><a href="/Jax" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                <li>Cyrax</li>
+                <li>Fujin</li>
+                <li>Kenshi</li>
+                <li><a href="/Jacqueline_Briggs" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jacqueline Briggs</a></li>
+                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang</a></li>
+                 <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Jarek</li>
+                <li>Mavado</li>
+                <li> <a href="/Kano" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kano</a></li>
+                 <li>Hsu Hao</li>
+                 <li>Sektor</li>
+                 <li>Kobra</li>
+                 <li>Frost</li>
+                <li> <a href="/Kabal"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal</a></li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Kali Sticks</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+
 
 ## Sonya Blade en Mortal Kombat X
 

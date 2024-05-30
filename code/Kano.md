@@ -13,9 +13,54 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6"> Kano, un villano despiadado y astuto, ha sido una presencia constante en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kano continúa siendo una figura central en la lucha por el poder y la supremacía. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
 
-<article class="col-12 col-md-6"> <img src="/img/Kano.webp" alt="Kano image " width="80%" height="auto" class="img-fluid"> </article>
+<section class="row"> <article class="col-12 col-md-4">  Kano, un villano despiadado y astuto, ha sido una presencia constante en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Kano continúa siendo una figura central en la lucha por el poder y la supremacía. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+<article class="col-12 col-md-4"> <img src="/img/Kano.webp" alt="Kano image " width="80%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Kano</td> 
+                <td>Australia</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li> <a href="/Kabal" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal </a></li>
+                <li>Kira</li>
+                <li>Kobra</li>
+                <li>Jarek</li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Li mei</li>
+                <li>Hsu Hao</li>
+                 <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade </a></li>
+                 <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                 <li>Mavado </li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
+              <tr>
+                <td>Armas</td>
+                <td> Butterfly Knives</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
 
 
 ## Kano en Mortal Kombat X

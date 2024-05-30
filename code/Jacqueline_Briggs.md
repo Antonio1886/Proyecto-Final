@@ -10,10 +10,55 @@ date: "2024-02-22"
 
 ## Introducción
 
+</article>
 
-<section class="row"> <article class="col-12 col-md-6">
-Jacqueline "Jacqui" Briggs es un personaje relativamente nuevo en la serie Mortal Kombat, pero ha demostrado ser una adición valiosa con su habilidad y determinación. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jacqui continúa desempeñando un papel crucial como miembro de las Fuerzas Especiales y como luchadora independiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
-<article class="col-12 col-md-6"> <img src="/img/Jaccqueline_Briggs.webp" alt="Jacqueline Briggs " width="90%" height="auto" class="img-fluid"> </article>
+<section class="row"> <article class="col-12 col-md-4"> Jacqueline "Jacqui" Briggs es un personaje relativamente nuevo en la serie Mortal Kombat, pero ha demostrado ser una adición valiosa con su habilidad y determinación. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Jacqui continúa desempeñando un papel crucial como miembro de las Fuerzas Especiales y como luchadora independiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
+<article class="col-12 col-md-4"> <img src="/img/Jaccqueline_Briggs.webp" alt="Jacqueline Briggs " width="90%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Jacqueline Briggs</td> 
+                <td>Estados Unidos</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                  <li> <a href="/Cassie_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Cassie Cage </a></li>
+                  <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                <li> Kung Jin</li>
+                <li>Takashi Takeda</li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Reptile</li>
+                  <li> <a href="/Kotal_Kahn"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kotal Kahn </a></li>
+                 <li> <a href="/Scorpion"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scorpion </a></li>
+                 <li>Ermac </li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Guantes Biónicos</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>  
+          </article>
+
 
 ## Jacqui Briggs en Mortal Kombat X
 

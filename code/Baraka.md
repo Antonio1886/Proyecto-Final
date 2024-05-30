@@ -24,26 +24,40 @@ date: "2024-02-22"
             </thead>
             <tbody class="table-group-divider">
               <tr>
-                <td>Baraka</td>
+                <td>Baraka</td> 
                 <td>Tarkatano</td>
               </tr>
               <tr>
-                <td>Relaciones</td>
+                <td>Aliados</td>
                 <td>
-                <li>Urano(Padre)</li>
-                <li>Thalassa(Madre)</li>
-                <li>Los Titanes(Parientes)</li>
-                <li>Hefesto(Esposo)</li>
-                <li><a href="/Ares" target="_blank" class="link-danger link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Ares</a>(Cuñado/Amante)</li>
+                <li>Shao Kahn</li>
+                <li>Shang Tsung</li>
+                <li>Onaga</li>
+                <li>Mileena</li>
+                <li>Quan Chi</li>
                 </td>
               </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Bo' Rai Cho</li>
+                <li>Goro</li>
+                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang</a></li>
+                <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                <li> <a href="/Dvorah"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover"> D'Vorah </a></li>
+                 <li> <a href="/Kotal_Kahn"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kotal Kahn</a></li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
               <tr>
-                <td>Afiliación</td>
-                <td>Monte Olimpo</td>
+                <td>Armas</td>
+                <td>Tarkatan Blades</td>
               </tr>
               <tr>
-                <td>Doblaje</td>
-                <td>Courtney Vineys</td>
+                <td>Raza</td>
+                <td>Tarkata</td>
               </tr>
             </tbody>
           </table>

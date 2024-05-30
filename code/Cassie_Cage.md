@@ -11,10 +11,63 @@ date: "2024-02-22"
 
 ## Introducción
 
-
-<section class="row"> <article class="col-12 col-md-6"> Cassie Cage, la hija de Sonya Blade y Johnny Cage, es un personaje fundamental en la franquicia Mortal Kombat. Desde su debut en Mortal Kombat X (MKX) hasta su papel en Mortal Kombat 11 (MK11), Cassie ha demostrado ser una luchadora formidable y una líder valiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
  </article>
-<article class="col-12 col-md-6"> <img src="/img/Cassie_Cage.webp" alt=" Cassie Cage " width="80%" height="auto" class="img-fluid"> </article>
+
+
+<section class="row"> <article class="col-12 col-md-4"> Cassie Cage, la hija de Sonya Blade y Johnny Cage, es un personaje fundamental en la franquicia Mortal Kombat. Desde su debut en Mortal Kombat X (MKX) hasta su papel en Mortal Kombat 11 (MK11), Cassie ha demostrado ser una luchadora formidable y una líder valiente. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.</article>
+<article class="col-12 col-md-4"> <img src="/img/Cassie_Cage.webp" alt=" Cassie Cage " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Cassandra Cage</td> 
+                <td>USA</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li><a href="/Johnny_Cage" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage (Padre)</a></li>
+                <li><a href="/Sonya_Blade" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade (Madre)</a></li>
+                <li> <a href="/Raiden" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Raiden </a></li>
+                <li><a href="/Jax" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax </a></li>
+                <li><a href="/Jacqueline_Briggs" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jacqueline Briggs</a></li>
+                <li> <a href="/Liu_Kang" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang</a></li>
+                 <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Geras</li>
+                <li>Sindel</li>
+                <li> <a href="/Kano" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kano</a></li>
+                <li> <a href="/Scorpion" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scorpion</a></li>
+                <li> <a href="/Erron_Black" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Erron Black</a></li>
+                <li> <a href="/Baraka" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Baraka</a></li>
+                 <li>Skarlet</li>
+                <li> <a href="/Kabal"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kabal</a></li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Pistolas, bastón extensible</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+
 
 ## Cassie Cage en Mortal Kombat X
 

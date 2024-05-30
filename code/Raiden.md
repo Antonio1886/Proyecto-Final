@@ -11,9 +11,63 @@ date: "2024-02-22"
 ## Introducción
 
 
-<section class="row"> <article class="col-12 col-md-6">
-Raiden, el poderoso Dios del Trueno, ha sido una figura icónica en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Raiden continúa desempeñando un papel crucial en la lucha entre el bien y el mal. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
-<article class="col-12 col-md-6"> <img src="/img/Raiden.png" alt="Raiden " width="90%" height="auto" class="img-fluid"> </article>
+</article>
+
+<section class="row"> <article class="col-12 col-md-4"> Raiden, el poderoso Dios del Trueno, ha sido una figura icónica en la serie Mortal Kombat desde sus primeras entregas. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Raiden continúa desempeñando un papel crucial en la lucha entre el bien y el mal. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.  </article>
+<article class="col-12 col-md-4"> <img src="/img/Raiden.png" alt="Raiden " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Raiden</td> 
+                <td>Cielo</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li> <a href="/Liu_Kang"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Liu Kang </a></li>
+                <li> <a href="/Kung_Lao"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Kung Lao </a></li>
+                <li> <a href="/Johnny_Cage"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Johnny Cage </a></li>
+                <li> Fujin</li>
+                <li> <a href="/Sonya_Blade"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sonya Blade</a></li>
+                <li> <a href="/Jax"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Jax</a></li>
+                <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zero</a></li>
+                <li> <a href="/Scorpion"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Scoprion</a></li>
+                <li>Sareena</li>
+                <li>Nightwolf</li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Shao Kahn</li>
+                <li>Shinnok</li>
+                <li>Onaga</li>
+                <li>Shang Tsung</li>
+                <li>Quan Chi</li>
+                <li>Kronika</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Villano</li>
+              <tr>
+                <td>Armas</td>
+                <td> Baston</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Dios</td>
+              </tr>
+            </tbody>
+          </table>  
+          </article>
+
 
 ## Raiden en Mortal Kombat X
 

@@ -12,9 +12,61 @@ date: "2024-02-22"
 
 
 
-<section class="row"> <article class="col-12 col-md-6"> Scorpion, uno de los personajes más emblemáticos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Scorpion continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica.
+
  </article>
-<article class="col-12 col-md-6"> <img src="/img/Scorpion.png" alt=" Scorpion " width="80%" height="auto" class="img-fluid"> </article>
+
+
+<section class="row"> <article class="col-12 col-md-4">  Scorpion, uno de los personajes más emblemáticos de la serie Mortal Kombat, ha sido una fuerza poderosa desde sus primeras apariciones. En Mortal Kombat X (MKX) y Mortal Kombat 11 (MK11), Scorpion continúa siendo un elemento central tanto en la historia como en el juego. Este documento explora su importancia en ambos videojuegos, su desarrollo como personaje y sus finales en la Torre Clásica. </article>
+<article class="col-12 col-md-4"> <img src="/img/Scorpion.png" alt=" Scorpion " width="100%" height="auto" class="img-fluid"> </article>
+
+<article class="col-12 col-md-4">  <table class="table table-dark">
+            <thead>
+              <tr>
+                <th scope="col" class="text-center">Earth Realm</th>
+              </tr>
+            </thead>
+            <tbody class="table-group-divider">
+              <tr>
+                <td>Hanzo Hasashi</td> 
+                <td>China</td> 
+              </tr>
+              <tr>
+                <td>Aliados</td>
+                <td>
+                <li> <a href="/Raiden" class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Raiden </a></li>
+                <li>Cyrax</li>
+                <li> Takahashi Takeda</li>
+                <li>Kenshi</li>
+                 <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zero </a></li>
+                </td>
+              </tr>
+               <tr>
+                <td>Enemigos</td>
+                <td>
+                <li>Quan Chi</li>
+                <li>Drahmin</li>
+                 <li> <a href="/Sub_Zero"  class="link-offset-2 link-underline-opacity-25 link-underline-opacity-100-hover">Sub Zero </a></li>
+                 <li>Moloch </li>
+                 <li>Onaga</li>
+                 <li>Taven</li>
+                </td>
+              </tr>
+               <td>Alineación</td>
+                <td>
+                <li>Heroe</li>
+              <tr>
+                <td>Armas</td>
+                <td> Long Sword</td>
+              </tr>
+              <tr>
+                <td>Raza</td>
+                <td>Humano</td>
+              </tr>
+            </tbody>
+          </table>
+          </article>
+
+
 
 ## Scorpion en Mortal Kombat X
 
